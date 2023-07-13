@@ -1,6 +1,6 @@
 export default defineAppConfig({
   docus: {
-    title: 'Z Docs',
+    title: 'Zdocs',
     description: 'Docs for 14bytes',
     url: 'https://docs.14bytes.com',
     layout: 'default',
