@@ -9,7 +9,7 @@ export default defineAppConfig({
     },
     header: {
       logo: false,
-      title: 'Zdocs',
+      showLinkIcon: false,
       fluid: true,
     },
     aside: {
@@ -22,7 +22,7 @@ export default defineAppConfig({
     footer: {
       textLinks: [
         {
-          text: '© presented by 14bytes',
+          text: '© presented by 14bytes, writting with ♥',
           href: 'https://14bytes.com',
           target: '_blank',
           rel: 'noopener'
