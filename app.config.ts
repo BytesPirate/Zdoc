@@ -8,7 +8,8 @@ export default defineAppConfig({
       github: 'iA10N3/Zdoc',
     },
     header: {
-      logo: false,
+      logo: true,
+      title: "Zdocs",
       showLinkIcon: false,
       fluid: true,
     },
