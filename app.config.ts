@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: 'Zdocs',
-    description: 'Docs for 14bytes',
+    description: 'Docs for Zeus',
     url: 'https://docs.14bytes.com',
     layout: 'default',
     socials: {
@@ -23,7 +23,7 @@ export default defineAppConfig({
     footer: {
       textLinks: [
         {
-          text: '© presented by 14bytes, writting with ♥',
+          text: '© presented by Zeus, writting with ♥',
           href: 'https://14bytes.com',
           target: '_blank',
           rel: 'noopener'
